@@ -1,5 +1,3 @@
-Have lunch
-Buy Groceries.
-GO Gym
-Code 
-Visit to beach.
+Task 1
+Task 2
+Task 3
